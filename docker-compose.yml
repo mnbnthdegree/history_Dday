@@ -33,7 +33,7 @@ services:
   
   # The Pixel Streaming demo project
   project:
-    image: ess81mbuild
+    image: histddaybuild
     build:
       context: ./
       args:
