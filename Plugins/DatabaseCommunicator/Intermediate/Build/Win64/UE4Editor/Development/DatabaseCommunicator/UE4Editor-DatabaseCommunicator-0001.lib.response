@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DatabaseCommunicator-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\Nthdegree\history_mvm_DB\Intermediate\Build\Win64\H1_MvMEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Z:\Nthdegree\history_mvm_DB\Plugins\DatabaseCommunicator\Intermediate\Build\Win64\UE4Editor\Development\DatabaseCommunicator\Module.DatabaseCommunicator.cpp.obj"
+"Z:\Nthdegree\history_mvm_DB\Plugins\DatabaseCommunicator\Intermediate\Build\Win64\UE4Editor\Development\DatabaseCommunicator\Module.DatabaseCommunicator.gen.cpp.obj"
+"Z:\Nthdegree\history_mvm_DB\Plugins\DatabaseCommunicator\Intermediate\Build\Win64\UE4Editor\Development\DatabaseCommunicator\Default.rc2.res"
+/OUT:"Z:\Nthdegree\history_mvm_DB\Plugins\DatabaseCommunicator\Intermediate\Build\Win64\UE4Editor\Development\DatabaseCommunicator\UE4Editor-DatabaseCommunicator-0001.lib"

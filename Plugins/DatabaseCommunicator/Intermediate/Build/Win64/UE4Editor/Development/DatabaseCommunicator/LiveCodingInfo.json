@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DatabaseCommunicator.cpp.obj": [
+			"DatabaseCommunicator.cpp.obj",
+			"DatabaseQuery.cpp.obj",
+			"DatabaseQueryResult.cpp.obj",
+			"DatabaseQueryResultColumn.cpp.obj",
+			"DatabaseQueryResultRow.cpp.obj"
+		],
+		"Module.DatabaseCommunicator.gen.cpp.obj": [
+			"DatabaseCommunicator.init.gen.cpp.obj",
+			"DatabaseQuery.gen.cpp.obj",
+			"DatabaseQueryResult.gen.cpp.obj",
+			"DatabaseQueryResultColumn.gen.cpp.obj",
+			"DatabaseQueryResultRow.gen.cpp.obj",
+			"DatabaseStructs.gen.cpp.obj"
+		]
+	}
+}

@@ -28,6 +28,10 @@
 		{
 			"Name": "PixelStreaming",
 			"Enabled": true
+		},
+		{
+			"Name": "DatabaseCommunicator",
+			"Enabled": true
 		}
 	]
 }
